@@ -8,7 +8,7 @@ This app was developed using Swift. It is an IOS app that asks the user for info
 
 App Walk-though
 
-https://github.com/bellynap/codepath-prework/commit/6f9fe47a87d2932198d336ef777c5bc4961fbf04#diff-dbf2172c0aad397a86d989cc42d75cdbb8277131d2f6fa118dc40431de806407
+https://github.com/bellynap/codepath-prework/blob/main/preWorkGif.gif
 
 Required Features
 - [x] 1. App displays an image of a school's logo
